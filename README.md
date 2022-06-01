@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## JavaScript, Node.js developer 
+## JavaScript, Front-end developer 
 
 ### How to reach me: 
 
