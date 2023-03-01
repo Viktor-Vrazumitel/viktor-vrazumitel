@@ -27,7 +27,7 @@ Techonologies | Description | Tools
 Javascript | *methodology* | MVC, DOM, TDD, AJAX, SOLID, OOP
 React | *services* | React router DOM v6, Redux, Redux saga, React Hooks
 node.js | *stack* | Express, JWT, Socket IO, REST API, axios
-SQL | *ORM & DB* | Redis, Postgres, Sequelize, MongoDB
+SQL | *ORM & DB* | Postgres, Sequelize
 Development & Deploy | *services* | GIT, Heroku, webpack
 Testing | *test* | Jest
 HTML & CSS | *preprocessors & principles* | Ant Design, Bootstrap,Material UI, module, grid, flexboxes
