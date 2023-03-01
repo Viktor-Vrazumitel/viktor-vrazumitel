@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 Techonologies | Description | Tools
 --- | --- | ---
 Javascript | *methodology* | MVC, DOM, TDD, AJAX, SOLID, OOP
-React | *services* | React router DOM v6, Redux, Redux saga, React Hooks
+React | *services* | React router DOM v6, ReactQuery, Redux, Redux saga, React Hooks
 node.js | *stack* | Express, JWT, Socket IO, REST API, axios
 SQL | *ORM & DB* | Postgres, Sequelize
 Development & Deploy | *services* | GIT, Heroku, webpack
 Testing | *test* | Jest
-HTML & CSS | *preprocessors & principles* | Ant Design, Bootstrap,Material UI, module, grid, flexboxes
+HTML & CSS | *preprocessors & principles* | StyledComponents, Ant Design, Bootstrap,Material UI, module, grid, flexboxes
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
